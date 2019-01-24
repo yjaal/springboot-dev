@@ -24,3 +24,4 @@ spring boot 集成各类框架
 15、相关部署环境搭建
 16、整合angular6
 17、整合QueryDSL+JPA
+18、整合spock
